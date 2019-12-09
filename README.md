@@ -1,5 +1,5 @@
 # Database Queries
-
+Sweet
 ## Topics
 
 - Relational Databases
